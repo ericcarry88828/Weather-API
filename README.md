@@ -8,6 +8,7 @@ This is an application for viewing weather forecasts through third-party API.
 
   <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo3.png" width="45%">
 </p>
+
 ## Usage
 
 ```
