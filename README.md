@@ -5,9 +5,9 @@ It uses Redis for caching responses to optimize performance and minimize API req
 
 ## Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo1.png" width="33%">
-  <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo2.png" width="33%">
-  <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo3.png" width="33%">
+  <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo1.png" width="30%">
+  <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo2.png" width="30%">
+  <img src="https://raw.githubusercontent.com/ericcarry88828/Weather-API/refs/heads/main/weatherapp/demo/Demo3.png" width="30%">
 </p>
 
 ## Features
