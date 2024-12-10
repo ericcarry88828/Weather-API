@@ -1,3 +1,4 @@
+[![Project Page](https://img.shields.io/badge/Project%20Page-Click%20Here-brightgreen)](https://roadmap.sh/projects/weather-api-wrapper-service)
 # Weather API
 
 This is an application for viewing weather forecasts through third-party API [OpenWeather](https://openweathermap.org/).
